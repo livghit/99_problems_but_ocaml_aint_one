@@ -1,0 +1,4 @@
+(executable
+ (public_name nintenine_problems_but_ocaml_aint_one)
+ (name main)
+ (libraries nintenine_problems_but_ocaml_aint_one))

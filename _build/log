@@ -1,0 +1,24 @@
+# dune exec problems_but_ocaml_aint_one
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/livghit/.cache/dune/db
+# Workspace root:
+# /Users/livghit/Development/nintenine_problems_but_ocaml_aint_one
+# Auto-detected concurrency: 10
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/Users/livghit/Development/nintenine_problems_but_ocaml_aint_one/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /Users/livghit/.opam/default/bin/ocamlc.opt -config > /var/folders/3v/shz47n6x69160mf690vsz31h0000gn/T/dune_35bb19_output
