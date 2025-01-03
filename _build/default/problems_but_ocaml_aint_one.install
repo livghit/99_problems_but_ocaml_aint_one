@@ -6,3 +6,6 @@ lib: [
 bin: [
   "_build/install/default/bin/problems_but_ocaml_aint_one"
 ]
+doc: [
+  "_build/install/default/doc/problems_but_ocaml_aint_one/README.md"
+]

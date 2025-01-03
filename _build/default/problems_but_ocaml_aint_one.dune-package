@@ -1,4 +1,7 @@
 (lang dune 3.13)
 (name problems_but_ocaml_aint_one)
-(sections (lib .) (bin ../../bin))
-(files (lib (META dune-package opam)) (bin (problems_but_ocaml_aint_one)))
+(sections (lib .) (bin ../../bin) (doc ../../doc/problems_but_ocaml_aint_one))
+(files
+ (lib (META dune-package opam))
+ (bin (problems_but_ocaml_aint_one))
+ (doc (README.md)))
